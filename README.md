@@ -13,6 +13,6 @@ Procedural Approach:
 Functional Apporach:
 - LISP (SBCL)
 - ML (SML)
-- Pascal
+- Erlang
 - Javascript (functional manner)
 - Scala (functional manner)
